@@ -3,8 +3,7 @@ Casi positivi COVID-19 in Piemonte
 
 
 
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~the.information.horizon/3162.embed?share_key=fLwF4lfgVrnSoDktHqU2vz"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~elizabethts/9.embed" height="525" width="100%"></iframe>
 
 This is a closer look at the data represented in the National Data Dashboard: http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus
 
