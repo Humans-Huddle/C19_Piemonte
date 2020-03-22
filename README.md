@@ -14,10 +14,11 @@ ________
 Tutti gli aggiornamenti sulle attività messe in campo dal Servizio Nazionale: 
 <a href="https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"> https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus</a>
 
-Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi http://arcg.is/C1unv (versione desktop) e <a href="http://arcg.is/081a51">http://arcg.is/081a51</a> (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
+Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi <a href="http://arcg.is/C1unv">http://arcg.is/C1unv</a> (versione desktop) e <a href="http://arcg.is/081a51">http://arcg.is/081a51</a> (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
 
 Date Source: <a href="https://github.com/pcm-dpc/COVID-19">https://github.com/pcm-dpc/COVID-19</a>
 
+ 
 Licence from: <a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE">https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE</a>
 
 
