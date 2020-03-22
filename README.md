@@ -9,30 +9,17 @@ C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
 Not seeing the interactive version? Click <a href="https://plot.ly/~the.information.horizon/3162.embed?share_key=fLwF4lfgVrnSoDktHqU2vz">Here</a>
 
-This is a closer look at the data represented in the National Data Dashboard: https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus
+Tutti gli aggiornamenti sulle attività messe in campo dal Servizio Nazionale: https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus
 
 Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi http://arcg.is/C1unv (versione desktop) e http://arcg.is/081a51 (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
 
 Date Source: https://github.com/pcm-dpc/COVID-19
 Licence from: https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE
 
-
-
-
-Date Source: https://github.com/pcm-dpc/COVID-19
-
-
-
-
-
-
-
-
-Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi http://arcg.is/C1unv (versione desktop) e http://arcg.is/081a51 (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
-
-Licence from: https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE
 
 ______
 
-This is a closer look at the data represented in the National Data Dashboard: https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus
+Check national information on <a href="http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"> COVID-19</a>
+
+For the national overview check the dashboard updated daily by <a href="http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1">Dipartimento della Protezione Civile</a>
 
