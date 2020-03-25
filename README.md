@@ -8,7 +8,7 @@
 </div>
 
 
-Not seeing the interactive version? Click <a href="https://plot.ly/~the.information.horizon/3162.embed?share_key=fLwF4lfgVrnSoDktHqU2vz">Here</a>
+Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3166/">Here</a>
 
 ________
 
