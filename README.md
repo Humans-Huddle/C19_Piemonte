@@ -11,7 +11,7 @@
 Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3174/">Here</a>
 
 ________
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html.embed" height="525" width="90%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.embed" height="525" width="100%"></iframe>
 
 
 View full screen - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
