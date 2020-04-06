@@ -17,7 +17,7 @@ ________
     <script data-plotly="the.information.horizon:3194" sharekey-plotly="3NG3TOFBVf5eFVkMUGnixU" src="https://plotly.com/embed.js" async></script>
 </div>
 
-Not seeing the interactive version? Click <a href ="https://plotly.com/~the.information.horizon/3194/">Here</a>
+Not seeing the interactive version? Click <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Here</a>
 
 
 -----
