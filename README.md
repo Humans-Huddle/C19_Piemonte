@@ -12,9 +12,9 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ________
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html" width="90%"></iframe>
 
-Not seeing the interactive version? Click <a href ="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html">Here</a>
+Not seeing the interactive version? Click <a href ="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/	Covid19_index.html">Here</a>
 
 
 -----
