@@ -3,7 +3,7 @@
 ### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
 <div>
-    <a href="https://plotly.com/~the.information.horizon/3174/?share_key=Qe7mRJM6BAHFWdRPkbOodr" target="_blank" title="PiemonteLive" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3174.png?share_key=Qe7mRJM6BAHFWdRPkbOodr" alt="PiemonteLive" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <a href="https://plotly.com/~the.information.horizon/3174/?share_key=Qe7mRJM6BAHFWdRPkbOodr" target="_blank" title="PiemonteLive" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3174.png?share_key=Qe7mRJM6BAHFWdRPkbOodr" alt="PiemonteLive" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="the.information.horizon:3174" sharekey-plotly="Qe7mRJM6BAHFWdRPkbOodr" src="https://plotly.com/embed.js" async></script>
 </div>
 
@@ -13,7 +13,7 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 ________
 
 <div>
-    <a href="https://plotly.com/~the.information.horizon/3194/?share_key=3NG3TOFBVf5eFVkMUGnixU" target="_blank" title="COVID_case_dropdown" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3194.png?share_key=3NG3TOFBVf5eFVkMUGnixU" alt="COVID_case_dropdown" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <a href="https://plotly.com/~the.information.horizon/3194/?share_key=3NG3TOFBVf5eFVkMUGnixU" target="_blank" title="COVID_case_dropdown" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3194.png?share_key=3NG3TOFBVf5eFVkMUGnixU" alt="COVID_case_dropdown" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="the.information.horizon:3194" sharekey-plotly="3NG3TOFBVf5eFVkMUGnixU" src="https://plotly.com/embed.js" async></script>
 </div>
 
