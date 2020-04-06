@@ -12,7 +12,8 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ________
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" height="525" width="100%"></iframe>
+<link href="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" rel="import" />
+
 
 Not seeing the interactive version? Click <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Here</a>
 
