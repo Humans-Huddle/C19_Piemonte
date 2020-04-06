@@ -14,7 +14,7 @@ ________
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" height="525" width="100%"></iframe>
 
 
-View full screen - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
+This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
 
 
 _______
