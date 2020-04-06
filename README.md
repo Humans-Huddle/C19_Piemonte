@@ -13,7 +13,7 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 ________
 
 <div>
-    <a href="https://plotly.com/~the.information.horizon/3180/?share_key=jZnB44HlTJKRMoOV97VipY" target="_blank" title="Piemonterolling_change" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3180.png?share_key=jZnB44HlTJKRMoOV97VipY" alt="Piemonterolling_change" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <a href="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html" target="_blank" title="Piemonterolling_change" style="display: block; text-align: center;"><img src="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html" alt="Piemonterolling_change" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="the.information.horizon:3180" sharekey-plotly="jZnB44HlTJKRMoOV97VipY" src="https://plotly.com/embed.js" async></script>
 </div>
 
