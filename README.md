@@ -11,6 +11,8 @@
 Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3174/">Here</a>
 
 ________
+### Change in total COVID-19 cases in Piemonte
+
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" height="525" width="100%"></iframe>
 
 
