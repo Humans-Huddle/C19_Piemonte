@@ -12,6 +12,15 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ________
 
+<div>
+    <a href="https://plotly.com/~the.information.horizon/3180/?share_key=jZnB44HlTJKRMoOV97VipY" target="_blank" title="Piemonterolling_change" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3180.png?share_key=jZnB44HlTJKRMoOV97VipY" alt="Piemonterolling_change" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="the.information.horizon:3180" sharekey-plotly="jZnB44HlTJKRMoOV97VipY" src="https://plotly.com/embed.js" async></script>
+</div>
+
+Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3187/">Here</a>
+-----
+
+
 Tutti gli aggiornamenti sulle attività messe in campo dal Servizio Nazionale: 
 <a href="https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"> https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus</a>
 
