@@ -12,10 +12,7 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ________
 
-<div>
-    <a href="https://plotly.com/~the.information.horizon/3194/?share_key=3NG3TOFBVf5eFVkMUGnixU" target="_blank" title="COVID_case_dropdown" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3194.png?share_key=3NG3TOFBVf5eFVkMUGnixU" alt="COVID_case_dropdown" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="the.information.horizon:3194" sharekey-plotly="3NG3TOFBVf5eFVkMUGnixU" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" height="525" width="100%"></iframe>
 
 Not seeing the interactive version? Click <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Here</a>
 
