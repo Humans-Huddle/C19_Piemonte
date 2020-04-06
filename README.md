@@ -31,7 +31,7 @@ Date Source: <a href="https://github.com/pcm-dpc/COVID-19">https://github.com/pc
  
 Licence from: <a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE">https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE</a>
 
-
+Dropdown menu code adapted from from: <a href="https://plotly.com/~jackp/17484/battery-with-heatmap-overlay/#/">https://plotly.com/~jackp/17484/battery-with-heatmap-overlay/#/</a>
 ______
 
 Check national information on <a href="http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus"> COVID-19</a>
