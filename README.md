@@ -12,9 +12,12 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ________
 
- <div w3-include-html="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/Covid19_index.html"></div>
+<div>
+    <a href="https://plotly.com/~the.information.horizon/3194/?share_key=3NG3TOFBVf5eFVkMUGnixU" target="_blank" title="COVID_case_dropdown" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3194.png?share_key=3NG3TOFBVf5eFVkMUGnixU" alt="COVID_case_dropdown" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="the.information.horizon:3194" sharekey-plotly="3NG3TOFBVf5eFVkMUGnixU" src="https://plotly.com/embed.js" async></script>
+</div>
 
-Not seeing the interactive version? Click <a href ="https://github.com/Humans-Huddle/C19_Piemonte/blob/master/	Covid19_index.html">Here</a>
+Not seeing the interactive version? Click <a href ="https://plotly.com/~the.information.horizon/3194/">Here</a>
 
 
 -----
