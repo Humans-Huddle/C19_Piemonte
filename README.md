@@ -15,10 +15,10 @@ ________
 <link href="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html" rel="import" />
 
 
-Not seeing the interactive version? Click <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Here</a>
+View full screen - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
 
 
------
+_______
 
 
 Tutti gli aggiornamenti sulle attività messe in campo dal Servizio Nazionale: 
