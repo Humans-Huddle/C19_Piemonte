@@ -2,11 +2,7 @@
 
 ### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
-<div>
-    <a href="https://plotly.com/~the.information.horizon/3174/?share_key=Qe7mRJM6BAHFWdRPkbOodr" target="_blank" title="PiemonteLive" style="display: block; text-align: center;"><img src="https://plotly.com/~the.information.horizon/3174.png?share_key=Qe7mRJM6BAHFWdRPkbOodr" alt="PiemonteLive" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="the.information.horizon:3174" sharekey-plotly="Qe7mRJM6BAHFWdRPkbOodr" src="https://plotly.com/embed.js" async></script>
-</div>
-
+<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//plotly.com/~the.information.horizon/3174.embed"></iframe> 
 
 Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3174/">Here</a>
 
