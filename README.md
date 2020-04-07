@@ -2,16 +2,16 @@
 
 ### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
-<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//humans-huddle.github.io/C19_Piemonte/Covid19_index.html"></iframe> 
+<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//humans-huddle.github.io/C19_Piemonte/Piemontelive.html"></iframe> 
 
-Not seeing the interactive version? Click <a href="https://plotly.com/~the.information.horizon/3174/">Here</a>
+Not seeing the interactive version? Click <a href="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html">Here</a>
 
 
 ### Change in total COVID-19 cases in Piemonte
 
 <iframe width="1000" height="800" frameborder="0" scrolling="no" src="//humans-huddle.github.io/C19_Piemonte/Covid_change_graph.html"></iframe>
 
-This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
+This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_drop.html">Click here</a>
  	
 
 _______
