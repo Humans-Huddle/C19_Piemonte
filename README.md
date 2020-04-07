@@ -9,11 +9,10 @@ Not seeing the interactive version? Click <a href="https://plotly.com/~the.infor
 
 ### Change in total COVID-19 cases in Piemonte
 
-<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//plotly.com/~the.information.horizon/3180.embed"></iframe>
-
+<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//humans-huddle.github.io/C19_Piemonte/Covid_change_graph.html"></iframe>
 
 This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_index.html">Click here</a>
-
+ 	
 
 _______
 
