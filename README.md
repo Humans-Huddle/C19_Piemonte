@@ -2,7 +2,7 @@
 
 ### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
-<iframe width="1000" height="800" frameborder="0" scrolling="no" src="//humans-huddle.github.io/C19_Piemonte/Piemontelive.html"></iframe> 
+<iframe width="1000" height="800" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html"></iframe> 
 
 Not seeing the interactive version? Click <a href="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html">Here</a>
 
