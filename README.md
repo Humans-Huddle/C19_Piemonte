@@ -17,8 +17,9 @@ This works better in full screen, to view it - <a href ="https://humans-huddle.g
 
 ### Response to COVID-19 in Piemonte
 
-<iframe width="1200" height="800" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Covid_change_graph.html">
+<iframe width="1200" height="800" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Reg_response_regular.html">
 </iframe>
+This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Reg_response_drop.html">Click here</a>
 _______
 
 
