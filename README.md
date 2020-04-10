@@ -1,6 +1,9 @@
 # C19_Piemonte
 
-### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
+### La selezione di grafici
+
+
+#### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html">
 </iframe> 
@@ -8,14 +11,14 @@
 Not seeing the interactive version? Click <a href="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html">Here</a>
 
 
-### Change in total COVID-19 cases in Piemonte
+#### Change in total COVID-19 cases in Piemonte
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Covid_change_graph.html">
 </iframe>
 
 This works better in full screen, to view it - <a href ="https://humans-huddle.github.io/C19_Piemonte/Covid19_drop.html">Click here</a>
 
-### Response to COVID-19 in Piemonte
+#### Response to COVID-19 in Piemonte
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Reg_response_regular.html">
 </iframe>
