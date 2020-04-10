@@ -1,9 +1,9 @@
 # C19_Piemonte
 
-### La selezione di grafici
+### Per le versioni a schermo intero e interattive, seleziona il grafico e fai clic sull'URL
 
 
-#### C19_Piemonte mostra casi positivi COVID-19 in Piemonte
+#### mostra casi positivi COVID-19 in Piemonte
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://humans-huddle.github.io/C19_Piemonte/Piemontelive.html">
 </iframe> 
